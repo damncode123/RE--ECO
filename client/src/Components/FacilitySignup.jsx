@@ -57,7 +57,7 @@ export default function Signup() {
         <div className="w-[50vw] h-[100vh] flex items-center justify-center">
           <div className="box-border h-[680px] w-[390px] p-4 rounded-2xl flex flex-col gap-5">
             <div className="text-center">
-              <h1 className="text-3xl mt-1 text-green-800 font-bold">Signup</h1>
+              <h1 className="text-3xl mt-1 text-green-800 font-bold underline">Signup</h1>
             </div>
             <div className="flex gap-2 mt-1 bg-white rounded-xl h-12 p-2">
               <img

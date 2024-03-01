@@ -9,7 +9,7 @@ const HomePage = () => {
     <div className="section-container">
     <div className="hero-section">
       <div className="text-section mx-4">
-        <h1 className="text-title w-500 text-green-900 font-poppins text-4xl font-bold">
+        <h1 className="text-title w-500 text-green-900 font-poppins text-4xl font-bold underline">
         Re-Eco
         </h1>
         <h2 className='text-3xl font-bold mt-4 text-green-600'>

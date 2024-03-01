@@ -51,7 +51,7 @@ export default function Login() {
         <div className="w-[50vw] h-[100vh] border-red-950 flex flex-col items-center justify-center">
           <div className="box-border h-[630px] w-[390px] p-4 rounded-2xl flex flex-col gap-8">
             <div className="text-center">
-              <h1 className="text-3xl mt-5 text-green-800 font-bold">Login</h1>
+              <h1 className="text-3xl mt-5 text-green-800 font-bold underline">Login</h1>
             </div>
             <div className="flex gap-2 mt-3 bg-white rounded-xl h-12 p-2">
               <img
