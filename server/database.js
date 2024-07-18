@@ -3,12 +3,6 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const pool = mysql.createPool({
-    host: '127.0.0.1',
-    user: 'root',
-    password: 'bhkksuar12',
-    database: 'sakila'
-}).promise();
 
 // const users = await pool.query('SELECT * FROM users');
 // console.log(users[0]);
